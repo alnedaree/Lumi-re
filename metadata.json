@@ -1,0 +1,6 @@
+{
+  "name": "Lumière",
+  "description": "Luxury cinematic interactive novel reader and production studio with multilingual RTL/LTR support, ElevenLabs v4 and Gemini AI voices, procedural soundscapes, and AI scene direction.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
